@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Google Clone Application
+
+[Live Application](https://goggl-search-gg.netlify.app/search)
+
 ## Available Scripts
 
 In the project directory, you can run:
