@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Google Clone Application
 
+![image](https://girishgodage.in/img/goggl.png) 
+
 [Live Application](https://goggl-search-gg.netlify.app/search)
 
 ## Available Scripts
